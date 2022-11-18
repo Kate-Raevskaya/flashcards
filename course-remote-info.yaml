@@ -3,14 +3,14 @@ hyperskill_project:
   ide_files: https://stepik.org/media/attachments/lesson/384602/additional_files.json
   is_template_based: false
   use_ide: true
-update_date: Thu, 01 Jan 1970 00:00:00 UTC
+update_date: "Fri, 18 Nov 2022 14:08:23 UTC"
 stages:
 - id: 625
   step: 10245
   is_completed: true
 - id: 626
   step: 10246
-  is_completed: false
+  is_completed: true
 - id: 627
   step: 10247
   is_completed: false
@@ -87,7 +87,7 @@ topics:
     theory_id: 11760
   - title: Orientation and Display order
     theory_id: 11768
-  - title: Flexibility, growth and contraction ratio
+  - title: "Flexibility, growth and contraction ratio"
     theory_id: 18859
   - title: Axis alignment
     theory_id: 11784
